@@ -40,37 +40,37 @@
     "tvname" : "A2Z"
   },
   {
-    "tvlogo" : "https://play-lh.googleusercontent.com/gmWipAJmtIoQX0sbEocEe9bwp3FMsLBqVvnpr1pJ0I_El_euPBwDl7eM2T-NHEVFgXI",
+    "tvlogo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiccwKj3fabqP1EGVJgaVGN4Bvaaxdy64fTg&s",
     "iptvlink" : "https://tv.balkanweb.com/news24/livestream/playlist.m3u8",
-    "tvname" : "News 24 HD"
+    "tvname" : "GG"
   },
   {
-    "tvlogo" : "https://play-lh.googleusercontent.com/aKs0o55UoBMaacPJTE2i_AS9VuxR2y_WdsrIZtC3n3qR-iAMhP-XKwXFx_RUEqiNv7s",
+    "tvlogo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiccwKj3fabqP1EGVJgaVGN4Bvaaxdy64fTg&s",
     "iptvlink" : "http://iptv.rtv-ooe.at/stream.m3u8",
-    "tvname" : "RTV English"
+    "tvname" : "GG"
   },
   {
-    "tvlogo" : "https://play-lh.googleusercontent.com/aNJHeyq_ZBV0B87sQ6QUKuNxkWRix-TurDEf4bCACHSll_KUgKj-Ri2_AMf_CLuDiQ0",
+    "tvlogo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiccwKj3fabqP1EGVJgaVGN4Bvaaxdy64fTg&s",
     "iptvlink" : "https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8",
     "tvname" : "COM Brasil"
   },
   {
-    "tvlogo" : "https://online-television.net/uploads/posts/2023-03/animetv.webp",
+    "tvlogo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiccwKj3fabqP1EGVJgaVGN4Bvaaxdy64fTg&s",
     "iptvlink" : "https://stmv1.srvif.com/animetv/animetv/playlist.m3u8",
     "tvname" : "Anime TV"
   },
   {
-    "tvlogo" : "https://media.licdn.com/dms/image/v2/D4D0BAQEfQhzaXMEoLg/company-logo_200_200/company-logo_200_200/0/1722275826813/istvdigital_logo?e=2147483647&v=beta&t=UkoTlfZRKUsNyOj0fK25rbzO04pdukAbTOf5aFeg3Y4",
+    "tvlogo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiccwKj3fabqP1EGVJgaVGN4Bvaaxdy64fTg&s",
     "iptvlink" : "https://video08.logicahost.com.br/istvnacional/srt.stream/istvnacional.m3u8",
     "tvname" : "ISTV"
   },
   {
-    "tvlogo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Marca_rede_brasil_rgb-color.png/200px-Marca_rede_brasil_rgb-color.png",
+    "tvlogo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiccwKj3fabqP1EGVJgaVGN4Bvaaxdy64fTg&sng",
     "iptvlink" : "https://video01.logicahost.com.br/redebrasil02/redebrasil02/playlist.m3u8",
     "tvname" : "REDE Brasil"
   },
   {
-    "tvlogo" : "https://dateame.co/public/storage/media/20200717_tve_brasil.jpg",
+    "tvlogo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiccwKj3fabqP1EGVJgaVGN4Bvaaxdy64fTg&s",
     "iptvlink" : "http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8",
     "tvname" : "TEST CHANNEL"
   }
