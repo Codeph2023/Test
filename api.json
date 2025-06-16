@@ -10,34 +10,34 @@
     "tvname" : "GMA NEWS"
   },
   {
-    "tvlogo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBB3OjphZc-Q1ssykzL_7H96-5CnStIHRCeg&s",
+    "tvlogo" : "https://upload.wikimedia.org/wikipedia/commons/1/14/GMA_Life_TV_logo.png",
+    "iptvlink" : "https://ott.udptv.net/stream/iptv/gmalifetv/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+    "tvname" : "GMA LIFE TV"
+  },
+  {
+    "tvlogo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqn7hOWr6Eqb0qpaTHuke7RuPbcZAXu7fbxfv1omkQKby0CZQvHvV9KA7X&s=10",
+    "iptvlink" : "https://ott.udptv.net/stream/iptv/heartofasia/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+    "tvname" : "HEART OF ASIA"
+  },
+  {
+    "tvlogo" : "https://upload.wikimedia.org/wikipedia/en/2/26/I_Heart_Movies_2021.png",
+    "iptvlink" : "https://ott.udptv.net/stream/iptv/iheartmovies/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+    "tvname" : "I HEART MOVIES"
+  },
+  {
+    "tvlogo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7RQknJ2mcWH_7XU7mwEEnq-ihbAN0Aa069QKw8XrR5XmUAL88S3Rcqgk&s=10",
     "iptvlink" : "https://d1uf7s78uqso1e.cloudfront.net/out/v1/efa01372657648be830e7c23ff68bea2/index.mpd",
-    "tvname" : "TEST MPD"
+    "tvname" : "KAPAMILYA CHANNEL"
   },
   {
-    "tvlogo" : "https://rukminim2.flixcart.com/image/850/1000/kfyasnk0/digital-voucher-code/q/z/g/12-months-premium-annual-subscription-sonyliv-original-imafwan3g5rjmrmn.jpeg?q=90&crop=false",
-    "iptvlink" : "https://dai.google.com/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
-    "tvname" : "Sony Liv 1"
+    "tvlogo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQigTjBopkvKKJkRaEQVacLOtLeD3EEj6ZAsg&s",
+    "iptvlink" : "https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.mpd",
+    "tvname" : "TV5"
   },
   {
-    "tvlogo" : "https://rukminim2.flixcart.com/image/850/1000/kfyasnk0/digital-voucher-code/q/z/g/12-months-premium-annual-subscription-sonyliv-original-imafwan3g5rjmrmn.jpeg?q=90&crop=false",
-    "iptvlink" : "https://dai.google.com/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
-    "tvname" : "Sony Liv 2"
-  },
-  {
-    "tvlogo" : "https://yt3.googleusercontent.com/ytc/AIdro_lqyV9-L0y-PsR60XLBpbPir3S8VppDNWNEVqjl5OUPxbU=s900-c-k-c0x00ffffff-no-rj",
-    "iptvlink" : "https://fe.tring.al/delta/105/out/u/1200_1.m3u8",
-    "tvname" : "Kanali 7"
-  },
-  {
-    "tvlogo" : "https://play-lh.googleusercontent.com/PPVTRlbMNVLqQBOYFrjox16LpDjIWuEV7N9wBEMONNITMfMMZE6m8O1m8jsyIuJ6dWE=w240-h480-rw",
-    "iptvlink" : "https://albportal.net/albkanalemusic.m3u8",
-    "tvname" : "A Music Tv"
-  },
-  {
-    "tvlogo" : "https://yt3.googleusercontent.com/ytc/AIdro_n00DzE39o-4IFJ07IP3gG__TMqKxXXbwYaARinwTXTDFM=s900-c-k-c0x00ffffff-no-rj",
-    "iptvlink" : "https://live1.mediadesk.al/cnatvlive.m3u8",
-    "tvname" : "CNA"
+    "tvlogo" : "https://static.wikia.nocookie.net/tv5network/images/c/cc/A2Z_Channel_11.png/revision/latest?cb=20240507105140",
+    "iptvlink" : "https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_a2z.mpd",
+    "tvname" : "A2Z"
   },
   {
     "tvlogo" : "https://play-lh.googleusercontent.com/gmWipAJmtIoQX0sbEocEe9bwp3FMsLBqVvnpr1pJ0I_El_euPBwDl7eM2T-NHEVFgXI",
