@@ -1,20 +1,78 @@
-{
- "HELP_MSG": "TEST TXT",
- "HELP_URL": "https:\/\/pornhub.com",
- "API": "https:\/\/api.themoviedb.org\/3\/",
- "MaintenanceMoDE": "google.com",
- "VERSION_NAME": "2.9",
- "SERVERS": [
+[
   {
-   "Server": "WVVoU01HTklUVFpNZVRreVlWZFNlbU50VFhWbFNHdzJUREpXZEZsdFZtdE1NakYyWkcxc2JGQXpVblJhUjBrNVdrZEplQT09",
-   "Name": "SERVER-01"
+    "tvlogo" : "https://i1.sndcdn.com/artworks-000005011281-9brqv2-t1080x1080.jpg",
+    "iptvlink" : "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+    "tvname" : "Test  TV"
   },
   {
-   "Server": "WVVoU01HTklUVFpNZVRsNlpFaEtiRmxYTVRGYWVUVjNZMjA0ZG1SdGJHdGFWemgyV2tkSmVBPT0=",
-   "Name": "VIVA MAX"
+    "tvlogo" : "https://yt3.googleusercontent.com/yGbA7wHYbj_KXDN4Q7IP4P8ADErUQX6SYJotTN35Kjes6ufM7Kua15xVqzCfq_IEfz8nAlr3=s900-c-k-c0x00ffffff-no-rj",
+    "iptvlink" : "https://live-cdn.tsports.com/live-01/index.m3u8",
+    "tvname" : "T-Sports 1"
+  },
+  {
+    "tvlogo" : "https://yt3.googleusercontent.com/yGbA7wHYbj_KXDN4Q7IP4P8ADErUQX6SYJotTN35Kjes6ufM7Kua15xVqzCfq_IEfz8nAlr3=s900-c-k-c0x00ffffff-no-rj",
+    "iptvlink" : "https://live-cdn.tsports.com/live-02/index.m3u8",
+    "tvname" : "T-Sports 2"
+  },
+  {
+    "tvlogo" : "https://rukminim2.flixcart.com/image/850/1000/kfyasnk0/digital-voucher-code/q/z/g/12-months-premium-annual-subscription-sonyliv-original-imafwan3g5rjmrmn.jpeg?q=90&crop=false",
+    "iptvlink" : "https://dai.google.com/ssai/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8",
+    "tvname" : "Sony Liv 1"
+  },
+  {
+    "tvlogo" : "https://rukminim2.flixcart.com/image/850/1000/kfyasnk0/digital-voucher-code/q/z/g/12-months-premium-annual-subscription-sonyliv-original-imafwan3g5rjmrmn.jpeg?q=90&crop=false",
+    "iptvlink" : "https://dai.google.com/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8",
+    "tvname" : "Sony Liv 2"
+  },
+  {
+    "tvlogo" : "https://yt3.googleusercontent.com/ytc/AIdro_lqyV9-L0y-PsR60XLBpbPir3S8VppDNWNEVqjl5OUPxbU=s900-c-k-c0x00ffffff-no-rj",
+    "iptvlink" : "https://fe.tring.al/delta/105/out/u/1200_1.m3u8",
+    "tvname" : "Kanali 7"
+  },
+  {
+    "tvlogo" : "https://play-lh.googleusercontent.com/PPVTRlbMNVLqQBOYFrjox16LpDjIWuEV7N9wBEMONNITMfMMZE6m8O1m8jsyIuJ6dWE=w240-h480-rw",
+    "iptvlink" : "https://albportal.net/albkanalemusic.m3u8",
+    "tvname" : "A Music Tv"
+  },
+  {
+    "tvlogo" : "https://yt3.googleusercontent.com/ytc/AIdro_n00DzE39o-4IFJ07IP3gG__TMqKxXXbwYaARinwTXTDFM=s900-c-k-c0x00ffffff-no-rj",
+    "iptvlink" : "https://live1.mediadesk.al/cnatvlive.m3u8",
+    "tvname" : "CNA"
+  },
+  {
+    "tvlogo" : "https://play-lh.googleusercontent.com/gmWipAJmtIoQX0sbEocEe9bwp3FMsLBqVvnpr1pJ0I_El_euPBwDl7eM2T-NHEVFgXI",
+    "iptvlink" : "https://tv.balkanweb.com/news24/livestream/playlist.m3u8",
+    "tvname" : "News 24 HD"
+  },
+  {
+    "tvlogo" : "https://play-lh.googleusercontent.com/aKs0o55UoBMaacPJTE2i_AS9VuxR2y_WdsrIZtC3n3qR-iAMhP-XKwXFx_RUEqiNv7s",
+    "iptvlink" : "http://iptv.rtv-ooe.at/stream.m3u8",
+    "tvname" : "RTV English"
+  },
+  {
+    "tvlogo" : "https://play-lh.googleusercontent.com/aNJHeyq_ZBV0B87sQ6QUKuNxkWRix-TurDEf4bCACHSll_KUgKj-Ri2_AMf_CLuDiQ0",
+    "iptvlink" : "https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8",
+    "tvname" : "COM Brasil"
+  },
+  {
+    "tvlogo" : "https://online-television.net/uploads/posts/2023-03/animetv.webp",
+    "iptvlink" : "https://stmv1.srvif.com/animetv/animetv/playlist.m3u8",
+    "tvname" : "Anime TV"
+  },
+  {
+    "tvlogo" : "https://media.licdn.com/dms/image/v2/D4D0BAQEfQhzaXMEoLg/company-logo_200_200/company-logo_200_200/0/1722275826813/istvdigital_logo?e=2147483647&v=beta&t=UkoTlfZRKUsNyOj0fK25rbzO04pdukAbTOf5aFeg3Y4",
+    "iptvlink" : "https://video08.logicahost.com.br/istvnacional/srt.stream/istvnacional.m3u8",
+    "tvname" : "ISTV"
+  },
+  {
+    "tvlogo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Marca_rede_brasil_rgb-color.png/200px-Marca_rede_brasil_rgb-color.png",
+    "iptvlink" : "https://video01.logicahost.com.br/redebrasil02/redebrasil02/playlist.m3u8",
+    "tvname" : "REDE Brasil"
+  },
+  {
+    "tvlogo" : "https://dateame.co/public/storage/media/20200717_tve_brasil.jpg",
+    "iptvlink" : "http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8",
+    "tvname" : "TVE Brasil"
   }
-  
- ]
-}
-
-///WVVoU01HTklUVFpNZVRreVlWZFNlbU50VFhWbFNHdzJUREpXZEZsdFZtdE1NakYyWkcxc2JGQXpVblJhUjBrNVdrZEplQT09
+ 
+]
