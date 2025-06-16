@@ -1,8 +1,8 @@
 [
   {
-    "tvlogo" : "https://i1.sndcdn.com/artworks-000005011281-9brqv2-t1080x1080.jpg",
+    "tvlogo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBB3OjphZc-Q1ssykzL_7H96-5CnStIHRCeg&s",
     "iptvlink" : "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-    "tvname" : "Test  TV"
+    "tvname" : "GMA"
   },
   {
     "tvlogo" : "https://yt3.googleusercontent.com/yGbA7wHYbj_KXDN4Q7IP4P8ADErUQX6SYJotTN35Kjes6ufM7Kua15xVqzCfq_IEfz8nAlr3=s900-c-k-c0x00ffffff-no-rj",
@@ -10,8 +10,8 @@
     "tvname" : "T-Sports 1"
   },
   {
-    "tvlogo" : "https://yt3.googleusercontent.com/yGbA7wHYbj_KXDN4Q7IP4P8ADErUQX6SYJotTN35Kjes6ufM7Kua15xVqzCfq_IEfz8nAlr3=s900-c-k-c0x00ffffff-no-rj",
-    "iptvlink" : "https://live-cdn.tsports.com/live-02/index.m3u8",
+    "tvlogo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBB3OjphZc-Q1ssykzL_7H96-5CnStIHRCeg&s",
+    "iptvlink" : "https://ott.udptv.net/stream/iptv/gma/stream.m3u8?uid=3901404228&u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
     "tvname" : "T-Sports 2"
   },
   {
