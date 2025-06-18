@@ -1,78 +1,17 @@
 [
-  {
-    "tvlogo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBB3OjphZc-Q1ssykzL_7H96-5CnStIHRCeg&s",
-    "iptvlink" : "https://ott.udptv.net/stream/iptv/gma/stream.m3u8?uid=3901404228&u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
-    "tvname" : "GMA"
-  },
-  {
-    "tvlogo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlTiXxLYBhDUhXBezqDiIfvwdYZFtU5nF3Hw&s",
-    "iptvlink" : "https://ott.udptv.net/stream/iptv/gmanewstv/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
-    "tvname" : "GMA NEWS"
-  },
-  {
-    "tvlogo" : "https://upload.wikimedia.org/wikipedia/commons/1/14/GMA_Life_TV_logo.png",
-    "iptvlink" : "https://ott.udptv.net/stream/iptv/gmalifetv/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
-    "tvname" : "GMA LIFE TV"
-  },
-  {
-    "tvlogo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqn7hOWr6Eqb0qpaTHuke7RuPbcZAXu7fbxfv1omkQKby0CZQvHvV9KA7X&s=10",
-    "iptvlink" : "https://ott.udptv.net/stream/iptv/heartofasia/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
-    "tvname" : "HEART OF ASIA"
-  },
-  {
-    "tvlogo" : "https://upload.wikimedia.org/wikipedia/en/2/26/I_Heart_Movies_2021.png",
-    "iptvlink" : "https://ott.udptv.net/stream/iptv/iheartmovies/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
-    "tvname" : "I HEART MOVIES"
-  },
-  {
-    "tvlogo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7RQknJ2mcWH_7XU7mwEEnq-ihbAN0Aa069QKw8XrR5XmUAL88S3Rcqgk&s=10",
-    "iptvlink" : "https://d1uf7s78uqso1e.cloudfront.net/out/v1/efa01372657648be830e7c23ff68bea2/index.mpd",
-    "tvname" : "KAPAMILYA CHANNEL"
-  },
-  {
-    "tvlogo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQigTjBopkvKKJkRaEQVacLOtLeD3EEj6ZAsg&s",
-    "iptvlink" : "https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd_video_1_5_init.mp4?m=1750032083",
-    "tvname" : "TV5"
-  },
-  {
-    "tvlogo" : "https://static.wikia.nocookie.net/tv5network/images/c/cc/A2Z_Channel_11.png/revision/latest?cb=20240507105140",
-    "iptvlink" : "https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5.m3u8",
-    "tvname" : "A2Z"
-  },
-  {
-    "tvlogo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiccwKj3fabqP1EGVJgaVGN4Bvaaxdy64fTg&s",
-    "iptvlink" : "https://tv.balkanweb.com/news24/livestream/playlist.m3u8",
-    "tvname" : "GG"
-  },
-  {
-    "tvlogo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiccwKj3fabqP1EGVJgaVGN4Bvaaxdy64fTg&s",
-    "iptvlink" : "http://iptv.rtv-ooe.at/stream.m3u8",
-    "tvname" : "GG"
-  },
-  {
-    "tvlogo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiccwKj3fabqP1EGVJgaVGN4Bvaaxdy64fTg&s",
-    "iptvlink" : "https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8",
-    "tvname" : "GG"
-  },
-  {
-    "tvlogo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiccwKj3fabqP1EGVJgaVGN4Bvaaxdy64fTg&s",
-    "iptvlink" : "https://stmv1.srvif.com/animetv/animetv/playlist.m3u8",
-    "tvname" : "GG"
-  },
-  {
-    "tvlogo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiccwKj3fabqP1EGVJgaVGN4Bvaaxdy64fTg&s",
-    "iptvlink" : "https://video08.logicahost.com.br/istvnacional/srt.stream/istvnacional.m3u8",
-    "tvname" : "GG"
-  },
-  {
-    "tvlogo" : "https://katorsex.me/wp-content/uploads/2024/05/Love-at-first-sight-pinatungan-agad.jpg",
-    "iptvlink" : "https://pinaydeepweb.xyz/wp-content/uploads/2025/06/Sa-classmate-nagpabembang.mp4",
-    "tvname" : "GG"
-  },
-  {
-    "tvlogo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiccwKj3fabqP1EGVJgaVGN4Bvaaxdy64fTg&s",
-    "iptvlink" : "http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8",
-    "tvname" : "TEST CHANNEL"
-  }
- 
+    {
+        "Title": "GMA",
+        "URL": "SqTVJcn1SnyncRC9FppsfEBqcicyfYSQtGOD3U1yHjwi44FiuqsyKx8aUuU+vb1H6o3FfXviS1aou6aCPUnjZmoZmojRq6HfzhPaecHjlp0oL4hE08FjinBRYnZ6Tr9KS+wooWazk3V772\/cTbkYlF6+c7P9uxT\/\/8BYcBQPf0+LHID1aZcEBYKUGW+9u46WgsIAxAJgr9uA7dmC",
+        "ImageURL": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcRBB3OjphZc-Q1ssykzL_7H96-5CnStIHRCeg&s"
+    },
+    {
+        "Title": "GMA NEWS",
+        "URL": "SqTVJcn1SnyncRC9FppsfEBqcicyfYSQtGOD3U1yHjwi44FiuqsyKx8aUuU+vb1H6o3FfXviS1aou6aCPUnjZmoZmojRq6HfzhPaecHjlp0oL4hE08FjinBRYnZ6Tr9KS+wooWazk3V772\/cTbkYlF6+c7P9uxT\/\/8BYcBQPf0+LHID1aZcEBYKUGW+9u46WgsIAxAJgr9uA7dmC",
+        "ImageURL": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSlTiXxLYBhDUhXBezqDiIfvwdYZFtU5nF3Hw&s"
+    },
+    {
+        "Title": "GMA LIFE TV",
+        "URL": "F7rWy5QivWt7dr6HMaApKqslUMkHR+Qfz\/+BN6t+kLD2lyIzq2mIMuNN42TpZzsAkYK6TdxMJ49\/6xjdwIUSkFfO0X3nWjpahyY\/rpaFPGzsBpi3k3CE4kA\/yp70uyxpfg6Uc1cSjPpk7eGaMJVMR+8t0GDL\/L6q2UYqrokMK8AhVB7NAcaHK3L4FDH4QoNXl6IRM7SWtIMD+VHSLxUjfiR+FpOBOfM0QLFBR+wHeKpoNaZzCEWp8DsfhFG5yYTr028+ig==",
+        "ImageURL": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/14\/GMA_Life_TV_logo.png"
+    }
 ]
